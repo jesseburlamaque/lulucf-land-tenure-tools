@@ -1,2 +1,3 @@
 # lulucf-fundiary-tools
-Scripts e ferramentas para análise espacial de dados LULUCF (Uso da Terra, Mudança de Uso da Terra e Florestas) e fundiário. Para avaliações ambientais e territoriais com foco em desmatamento, carbono e sobreposição de camadas.
+Tools for spatial analysis of LULUCF (Land Use, Land-Use Change, and Forestry) and land tenure data. Designed for environmental and territorial assessments focused on deforestation, carbon, and layer overlap analysis.
+
