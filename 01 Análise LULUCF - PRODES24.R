@@ -90,10 +90,10 @@ library(ggspatial)
 ### Parâmetros e Caminhos - CONFIGURAÇÃO GERAL
 
 # CONFIGURAÇÕES A SEREM AJUSTADAS PARA CADA ÁREA:
-geojson_path <- "C:/Users/JesseBurlamaque/Downloads/barreiro-das-antas.geojson"
-raster_path <- "C:/Users/JesseBurlamaque/Documents/BDG/LULUCF_PRODES/PDigital2000_2023_AMZ_raster_v20240508/PDigital2000_2023_AMZ_raster.tif"
-export_dir <- "C:/Users/JesseBurlamaque/Permian Global Research Limited/Permian Brasil - Documents/07. Novos Negócios/03. UC Federais/04. Barreiro das Antas/Analises"
-nome_area <- "RESEX BARREIRO DAS ANTAS"
+geojson_path <- ".../ROI.geojson"
+raster_path <- ".../PDigital2000_2023_AMZ_raster.tif"
+export_dir <- ".../Analises"
+nome_area <- "NOME DA AREA"
 
 # CONFIGURAÇÕES AUTOMÁTICAS (não mexer):
 nome_arquivo <- tolower(gsub(" ", "_", iconv(nome_area, to = "ASCII//TRANSLIT")))
